@@ -1,8 +1,7 @@
 class FirstClass
-  def doSomething
-  	puts "What to do"
+  def do_something
+  	puts "What to do?"
   end
 end
 
-
-#FirstClass.new doSomething
+FirstClass.new.do_something

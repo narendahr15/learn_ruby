@@ -6,13 +6,6 @@ def fact(n)
   end
 end
 
-class FirstClass
-  def doSomething
-  	puts "What to do"
-  end
-end
-
 puts fact 23
 
-#FirstClass.new doSomething
 
