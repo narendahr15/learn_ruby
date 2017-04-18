@@ -22,5 +22,4 @@ end
 grade_marks(23)
 grade_marks(101)
 grade_marks("sdf")
-        
-            
+                    
