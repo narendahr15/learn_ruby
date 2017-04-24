@@ -1,1 +1,0 @@
-Simple tutorials to learn Ruby
